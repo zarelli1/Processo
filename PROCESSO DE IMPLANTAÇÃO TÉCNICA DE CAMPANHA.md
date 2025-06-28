@@ -3,7 +3,7 @@
 1. Duplicar o Flow
 2. Renomear o Flow com o nome da campanha
 3. Alterar as etiquetas de CP-yyyyMM-Sx / CP-yyyyMM-Sx-Sim / CP-yyyyMM-Sx-Não
-![image]()
+![image](https://github.com/zarelli1/Processo/blob/main/Captura%20de%20tela%202025-06-28%20133728.png)
 
 4. Alterar Imagem ou Vídeo (converter para o tamanho e formato caso nescessário)
 - Imagem (2MB): https://www.iloveimg.com/pt/comprimir-imagem
