@@ -3,6 +3,8 @@
 1. Duplicar o Flow
 2. Renomear o Flow com o nome da campanha
 3. Alterar as etiquetas de CP-yyyyMM-Sx / CP-yyyyMM-Sx-Sim / CP-yyyyMM-Sx-Não
+![image](https://github.com/user-attachments/assets/802c954e-f8b4-4d1f-8d66-9cf47b63db52)
+
 4. Alterar Imagem ou Vídeo (converter para o tamanho e formato caso nescessário)
 - Imagem (2MB): https://www.iloveimg.com/pt/comprimir-imagem
 - Vídeo (15MB): https://www.freeconvert.com/pt/video-compressor -> selecionar a engrenagem para escolher o nível de compressão. 
