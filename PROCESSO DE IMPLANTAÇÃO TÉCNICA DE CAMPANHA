@@ -1,0 +1,27 @@
+
+
+1. Duplicar o Flow
+2. Renomear o Flow com o nome da campanha
+3. Alterar as etiquetas de CP-yyyyMM-Sx / CP-yyyyMM-Sx-Sim / CP-yyyyMM-Sx-Não
+4. Alterar Imagem ou Vídeo (converter para o tamanho e formato caso nescessário)
+- Imagem (2MB): https://www.iloveimg.com/pt/comprimir-imagem
+- Vídeo (15MB): https://www.freeconvert.com/pt/video-compressor -> selecionar a engrenagem para escolher o nível de compressão. 
+5. Adicionar as Copys Principais
+- Ver se é teste ABC. Se sim, configurar o randomizador para as 3 saídas. Se for teste AB, configurar o randomizador para as 2 saídas. Se não for teste ABC, configurar/criar um randomizador depois do bloco de ação de track e configurar as saídas pras copys
+6. Conferir se os blocos de conteúdos com as copys principais estão com um tempo de espera de 30s
+7. Conferir se os blocos de espera seguintes estão com tempo de 1d
+8. Conferir se o bloco de soma mensagem ta com tempo de espera de 1 min
+9. Conferir se o bloco de condição está de acordo com o CTA das copys
+10. Alterar as etiquetas de interesse para as interações positivas.
+11. Alterar copy de finalização
+- Atenção com o Telefone que deve ser colocado!!
+12. Conferir se a última campanha foi fechada:
+- Ir na planilha do cliente e ver se as informações da última campanha estão todas preenchidas
+- Conferir se os CP-Cont's (Sim-A, etc) estão zerados
+13. Enviar o Flow de Abertura de Campanha
+14. Testar Flow: Enviar para você o flow da campanha até ter certeza que está tudo OK.
+15. Rodar o flow "Zerar CP's"
+16. Configurar Transmissão
+- Nome: Igual ao nome do Flow + Seg1 (Seg1 está no clickup)
+- Atraso: Conforme o Click-up
+- Filtro: Conforme Segmentação no Click-up
