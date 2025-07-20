@@ -2,8 +2,8 @@
 
 Sistema automatizado para transformar vídeos longos em 7 shorts e agendar uploads diários.
 
-**Canal:** Leonardo_Zarelli  
-**URL:** https://www.youtube.com/@Leonardo_Zarelli
+**Canal:** xxxxxxxxxxxxxxxxx  
+**URL:** https://www.youtube.com/@xxxxxxxxxxxxxxxxx
 
 ## 🎯 Objetivo
 
@@ -15,7 +15,7 @@ Automatizar a criação de 7 shorts (60s cada) a partir de vídeos longos do can
 - ✅ Análise inteligente para identificar melhores momentos
 - ✅ Criação automática de 7 shorts em 720p
 - ✅ Agendamento de uploads diários
-- ✅ Hashtags personalizadas: #IA #thedreamjob #crypto #automacao #claudecode
+- ✅ Hashtags personalizadas: #IA #tech #automacao #shorts
 - ✅ Logs detalhados de todo o processo
 
 ## 📋 Pré-requisitos
@@ -131,7 +131,7 @@ python3 main.py
 
 ### Primeira execução:
 1. Sistema abrirá navegador para autorização
-2. Faça login com conta do canal Leonardo_Zarelli
+2. Faça login com sua conta do YouTube
 3. Autorize acesso ao YouTube
 4. Token será salvo automaticamente
 
@@ -188,5 +188,5 @@ Para dúvidas ou problemas:
 
 ---
 
-**Desenvolvido para o canal Leonardo_Zarelli**  
-Sistema de automação de conteúdo YouTube Shorts
+**Sistema Profissional de Automação**  
+Solução completa para automação de conteúdo YouTube Shorts
