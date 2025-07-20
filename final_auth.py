@@ -21,7 +21,7 @@ def final_auth_manual():
         config = json.load(f)['installed']
     
     # Código recebido
-    auth_code = "4/0AVMBsJhYpriX-RZvXkXjQ8fMK1P2WWW3VPlyoRszDkMtefydf8_MKtzbKB4cmnFww9-9qQ"
+    auth_code = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     
     print("🔐 AUTENTICAÇÃO FINAL - MÉTODO DIRETO")
     print("=" * 50)
