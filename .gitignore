@@ -57,6 +57,7 @@ shorts/
 # Credentials e secrets
 config/client_secrets.json
 config/api_key.json
+config/config.json
 config/youtube_credentials.pickle
 *.pickle
 *.json.backup

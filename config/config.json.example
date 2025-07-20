@@ -1,13 +1,13 @@
 {
   "youtube_api": {
-    "client_id": "58239564053-t66uvvaghil9islf9or81qvfs1q88cdb.apps.googleusercontent.com",
-    "client_secret": "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",
+    "client_id": "YOUR_CLIENT_ID_HERE",
+    "client_secret": "YOUR_CLIENT_SECRET_HERE",
     "redirect_uri": "http://localhost:8080/oauth2callback",
     "scopes": ["https://www.googleapis.com/auth/youtube.upload"]
   },
   "channel_info": {
-    "name": "Leonardo_Zarelli",
-    "url": "https://www.youtube.com/@Leonardo_Zarelli",
+    "name": "YOUR_CHANNEL_NAME",
+    "url": "https://www.youtube.com/@YOUR_CHANNEL",
     "owner": true
   },
   "directories": {
@@ -32,12 +32,9 @@
   },
   "hashtags": [
     "#IA",
-    "#thedreamjob",
-    "#crypto",
+    "#tech",
     "#automacao",
-    "#claudecode",
-    "#shorts",
-    "#tech"
+    "#shorts"
   ],
   "processing": {
     "max_concurrent": 2,
