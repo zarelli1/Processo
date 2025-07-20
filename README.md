@@ -125,9 +125,9 @@ python3 main.py
 ## 🔐 Autenticação OAuth 2.0
 
 ### Credenciais já configuradas:
-- **Client ID**: 58239564053-t66uvvaghil9islf9or81qvfs1q88cdb.apps.googleusercontent.com
-- **Client Secret**: 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
-- **Redirect URI**: http://localhost:8080/oauth2callback
+- **Client ID**: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+- **Client Secret**: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+- **Redirect URI**: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ### Primeira execução:
 1. Sistema abrirá navegador para autorização
