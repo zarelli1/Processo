@@ -2,7 +2,7 @@
 """
 Shorts Batch Processor Module
 Sistema de processamento em lote para criação de múltiplos shorts
-Canal: Leonardo_Zarelli
+Canal: Your_Channel_Name
 """
 
 import os

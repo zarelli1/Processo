@@ -2,7 +2,7 @@
 """
 Engagement Scorer Module
 Sistema para combinar análises e identificar os melhores segmentos para shorts
-Canal: Leonardo_Zarelli
+Canal: Your_Channel_Name
 """
 
 import logging

@@ -2,7 +2,7 @@
 """
 Upload Scheduler Module
 Sistema de agendamento automático para uploads de shorts
-Canal: Leonardo_Zarelli
+Canal: Your_Channel_Name
 """
 
 import os

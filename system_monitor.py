@@ -2,7 +2,7 @@
 """
 System Monitor Module
 Monitor de sistema com dashboard para automação YouTube Shorts
-Canal: Leonardo_Zarelli
+Canal: Your_Channel_Name
 """
 
 import os
@@ -420,7 +420,7 @@ class SystemMonitor:
             # Header
             print("="*60)
             print("🎬 YOUTUBE SHORTS AUTOMATION - DASHBOARD")
-            print("Canal: Leonardo_Zarelli")
+            print("Canal: Your_Channel_Name")
             print("="*60)
             
             # Status atual

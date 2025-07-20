@@ -2,7 +2,7 @@
 """
 YouTube Uploader Module
 Sistema de upload automático para YouTube com OAuth 2.0
-Canal: Leonardo_Zarelli
+Canal: Your_Channel_Name
 """
 
 import os

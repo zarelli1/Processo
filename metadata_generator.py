@@ -2,7 +2,7 @@
 """
 Metadata Generator Module
 Sistema de geração automática de metadados para shorts
-Canal: Leonardo_Zarelli
+Canal: Your_Channel_Name
 """
 
 import os
@@ -20,7 +20,7 @@ class MetadataGenerator:
         
         # Configurações padrão
         self.config = config or {
-            'channel_name': 'Leonardo_Zarelli',
+            'channel_name': 'Your_Channel_Name',
             'default_hashtags': [
                 '#IA', '#thedreamjob', '#crypto', '#automacao', 
                 '#claudecode', '#shorts', '#tech'
@@ -40,7 +40,7 @@ class MetadataGenerator:
 
 ---
 💡 Gerado automaticamente com IA
-🤖 Canal: @Leonardo_Zarelli""",
+🤖 Canal: @Your_Channel_Name""",
             'title_max_length': 100,
             'description_max_length': 5000,
             'tags_max_count': 15
@@ -241,7 +241,7 @@ class MetadataGenerator:
             
             # Tags básicas do canal
             basic_tags = [
-                'leonardo zarelli',
+                'your channel name',
                 'shorts',
                 'inteligencia artificial',
                 'tecnologia',
@@ -281,7 +281,7 @@ class MetadataGenerator:
             
         except Exception as e:
             self.logger.error(f"Erro ao gerar tags: {str(e)}")
-            return ['shorts', 'leonardo zarelli', 'tecnologia']
+            return ['shorts', 'your channel name', 'tecnologia']
     
     def generate_complete_metadata(self,
                                   original_title: str,
@@ -359,7 +359,7 @@ class MetadataGenerator:
             return {
                 'title': f"Short {part_number}/{total_parts} #Shorts",
                 'description': f"Short do canal {self.config['channel_name']}",
-                'tags': ['shorts', 'leonardo zarelli'],
+                'tags': ['shorts', 'your channel name'],
                 'category': 'Science & Technology',
                 'privacy_status': 'public',
                 'error': str(e)

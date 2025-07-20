@@ -2,7 +2,7 @@
 """
 Production Setup Script
 Script para configurar o sistema em modo de produção
-Canal: Leonardo_Zarelli
+Canal: Your_Channel_Name
 """
 
 import os

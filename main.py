@@ -2,7 +2,7 @@
 """
 YouTube Shorts Automation System
 Transforma vídeos longos em 7 shorts automaticamente e agenda uploads diários.
-Canal: Leonardo_Zarelli
+Canal: Your_Channel_Name
 """
 
 import os
@@ -76,7 +76,7 @@ class YouTubeAutomation:
         self.monitor = None
         
         # Log inicial
-        self.logger.info("YouTube Automation inicializado para Leonardo_Zarelli")
+        self.logger.info("YouTube Automation inicializado para Your_Channel_Name")
         
     def validate_system(self):
         """Valida sistema antes de inicializar"""
@@ -719,7 +719,7 @@ def main():
     automation = None
     
     try:
-        print("🎬 YouTube Shorts Automation - Leonardo_Zarelli")
+        print("🎬 YouTube Shorts Automation - Your_Channel_Name")
         print("=" * 50)
         
         # Inicializar sistema

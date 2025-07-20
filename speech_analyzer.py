@@ -2,7 +2,7 @@
 """
 Speech Analyzer Module
 Sistema de análise de fala para detectar palavras-chave e momentos relevantes
-Canal: Leonardo_Zarelli
+Canal: Your_Channel_Name
 """
 
 import os

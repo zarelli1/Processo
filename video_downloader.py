@@ -2,7 +2,7 @@
 """
 Video Downloader Module
 Sistema de download de vídeos do YouTube usando yt-dlp
-Canal: Leonardo_Zarelli
+Canal: Your_Channel_Name
 """
 
 import os

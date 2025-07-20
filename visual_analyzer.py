@@ -2,7 +2,7 @@
 """
 Visual Analyzer Module
 Sistema de análise visual para detectar mudanças de cena e movimento
-Canal: Leonardo_Zarelli
+Canal: Your_Channel_Name
 """
 
 import cv2

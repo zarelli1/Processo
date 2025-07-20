@@ -2,7 +2,7 @@
 """
 System Validator Module
 Validação de dependências, configurações e credenciais do sistema
-Canal: Leonardo_Zarelli
+Canal: Your_Channel_Name
 """
 
 import os

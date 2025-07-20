@@ -13,7 +13,7 @@ from video_processor import VideoProcessor
 def main():
     """Função principal com menu interativo"""
     
-    print("🚀 UPLOAD INTELIGENTE DE SHORTS - Leonardo Zarelli")
+    print("🚀 UPLOAD INTELIGENTE DE SHORTS - Your Name")
     print("=" * 60)
     
     # Verificar pasta de shorts
@@ -161,7 +161,7 @@ def main():
     print(f"\n🎯 RESUMO DO UPLOAD:")
     print(f"   📊 Shorts selecionados: {len(videos_to_upload)}")
     print(f"   ⏱️  Tempo estimado: {len(videos_to_upload) * 0.5:.1f} minutos")
-    print(f"   📺 Canal: @leonardo_zarelli")
+    print(f"   📺 Canal: @your_channel")
     
     print(f"\n📋 CONFIRMAÇÃO FINAL:")
     print(f"   S - Confirmar e iniciar upload")
@@ -182,7 +182,7 @@ def main():
     
     if success:
         print(f"\n🎉 UPLOAD CONCLUÍDO COM SUCESSO!")
-        print(f"📺 Acesse: https://youtube.com/@leonardo_zarelli")
+        print(f"📺 Acesse: https://youtube.com/@your_channel")
     else:
         print(f"\n❌ Problemas durante o upload")
         sys.exit(1)
@@ -405,8 +405,8 @@ def generate_description(filename):
 
 ---
 📱 CONECTE-SE:
-🔗 LinkedIn: Leonardo Zarelli
-📧 lzrgeracaoz2000@gmail.com
+🔗 LinkedIn: Your Name
+📧 your.email@example.com
 
 #IA #InteligenciaArtificial #AI #MachineLearning #Tecnologia #Inovacao #TechBrasil #DigitalTransformation"""
 
@@ -425,8 +425,8 @@ def generate_description(filename):
 
 ---
 📱 CONECTE-SE:
-🔗 LinkedIn: Leonardo Zarelli
-📧 lzrgeracaoz2000@gmail.com
+🔗 LinkedIn: Your Name
+📧 your.email@example.com
 
 #Automacao #Automation #Produtividade #Workflow #Tecnologia #Eficiencia #TechTips #Inovacao"""
 
@@ -445,8 +445,8 @@ def generate_description(filename):
 
 ---
 📱 CONECTE-SE:
-🔗 LinkedIn: Leonardo Zarelli
-📧 lzrgeracaoz2000@gmail.com
+🔗 LinkedIn: Your Name
+📧 your.email@example.com
 
 #Programacao #Coding #Desenvolvimento #Python #JavaScript #WebDev #SoftwareDevelopment #TechBrasil"""
 
@@ -465,8 +465,8 @@ def generate_description(filename):
 
 ---
 📱 CONECTE-SE:
-🔗 LinkedIn: Leonardo Zarelli
-📧 lzrgeracaoz2000@gmail.com
+🔗 LinkedIn: Your Name
+📧 your.email@example.com
 
 #Empreendedorismo #Business #Startup #Negocios #Gestao #Lideranca #Estrategia #Crescimento"""
 
@@ -485,8 +485,8 @@ def generate_description(filename):
 
 ---
 📱 CONECTE-SE:
-🔗 LinkedIn: Leonardo Zarelli
-📧 lzrgeracaoz2000@gmail.com
+🔗 LinkedIn: Your Name
+📧 your.email@example.com
 
 #Tecnologia #Inovacao #Profissional #Desenvolvimento #TechTips #Educacao #Conteudo #TechBrasil"""
     
@@ -503,8 +503,8 @@ def generate_description(filename):
 
 ---
 📱 CONECTE-SE:
-🔗 LinkedIn: Leonardo Zarelli  
-📧 lzrgeracaoz2000@gmail.com
+🔗 LinkedIn: Your Name  
+📧 your.email@example.com
 
 #Conteudo #Educacao #Dicas #Conhecimento #Aprendizado #TechBrasil"""
 
@@ -515,7 +515,7 @@ def generate_tags(filename):
     original_tags = video_info['tags']
     
     # Tags base sempre presentes
-    base_tags = ['Leonardo Zarelli', 'TechBrasil', 'Conteúdo']
+    base_tags = ['Your Name', 'TechBrasil', 'Conteúdo']
     
     # Tags específicas baseadas no conteúdo
     if original_title:

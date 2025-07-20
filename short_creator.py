@@ -2,7 +2,7 @@
 """
 Short Creator Module
 Sistema de criação automática de shorts com formatação profissional
-Canal: Leonardo_Zarelli
+Canal: Your_Channel_Name
 """
 
 import os

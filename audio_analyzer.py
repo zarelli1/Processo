@@ -2,7 +2,7 @@
 """
 Audio Analyzer Module
 Sistema de análise de áudio para detectar picos de energia e momentos dinâmicos
-Canal: Leonardo_Zarelli
+Canal: Your_Channel_Name
 """
 
 import os

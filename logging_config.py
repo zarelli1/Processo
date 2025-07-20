@@ -2,7 +2,7 @@
 """
 Advanced Logging Configuration
 Sistema de logging avançado com rotação e múltiplos níveis
-Canal: Leonardo_Zarelli
+Canal: Your_Channel_Name
 """
 
 import os
@@ -88,7 +88,7 @@ class AdvancedLogger:
             
             # Log inicial
             self.logger.info("="*60)
-            self.logger.info("YouTube Shorts Automation - Leonardo_Zarelli")
+            self.logger.info("YouTube Shorts Automation - Your_Channel_Name")
             self.logger.info("Sistema de logging iniciado")
             self.logger.info(f"Nível: {self.config['level']}")
             self.logger.info(f"Arquivo: {self.config['file']}")

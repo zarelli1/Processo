@@ -2,7 +2,7 @@
 """
 Video Processor Module
 Sistema de processamento e validação de vídeos usando MoviePy
-Canal: Leonardo_Zarelli
+Canal: Your_Channel_Name
 """
 
 import os

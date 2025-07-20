@@ -2,7 +2,7 @@
 """
 Analysis Pipeline Module
 Pipeline de análise com threading e cache para processamento paralelo
-Canal: Leonardo_Zarelli
+Canal: Your_Channel_Name
 """
 
 import os
